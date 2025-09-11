@@ -14,7 +14,7 @@ A modern, responsive task management application built with vanilla HTML, CSS, a
 - 📱 Fully responsive design
 
 ## Live Demo
-[View Live Demo](https://yourusername.github.io/task-manager-app/)
+[View Live Demo](https://shyamsingh420024.github.io/task-manager-app/)
 
 ## Technologies Used
 - HTML5
